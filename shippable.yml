@@ -3,6 +3,6 @@ jdk:
 - oraclejdk8
 build:
 ci:
-- mvn clean
-- mvn compile
+- mvn test
+- mvn install
 - java -jar target/part2-0.0.1-SNAPSHOT.jar
