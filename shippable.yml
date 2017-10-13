@@ -6,4 +6,4 @@ build:
  ci:
     - mvn test
     - mvn install
-	- java -jar target/part2-0.0.1-SNAPSHOT.jar
+- java -jar target/part2-0.0.1-SNAPSHOT.jar
