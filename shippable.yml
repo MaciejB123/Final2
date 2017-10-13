@@ -3,6 +3,7 @@ jdk:
 - oraclejdk8
 build:
 ci:
-- mvn -X compile assembly:single
+- mvn test
+- mvn install
 - java -jar target/part2-0.0.1-SNAPSHOT.jar
 cache: false

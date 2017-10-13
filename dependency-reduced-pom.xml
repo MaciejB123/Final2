@@ -43,6 +43,10 @@
       <name>part1</name>
       <url>https://www.dropbox.com/sh/4jtl5itjv9hvkmi/AAB0UUVRnzEcF8v2T6qphB4ta?dl=0</url>
     </repository>
+    <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+    </repository>
   </repositories>
   <distributionManagement>
     <repository>
