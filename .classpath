@@ -22,6 +22,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Maciek/Dropbox/package1/part1/0.0.1-SNAPSHOT/part1-0.0.1-20171013.032640-1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

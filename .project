@@ -3,6 +3,7 @@
 	<name>part2</name>
 	<comment></comment>
 	<projects>
+		<project>part1</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

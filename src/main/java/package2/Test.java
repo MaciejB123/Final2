@@ -4,12 +4,12 @@ import java.util.ArrayList;
 
 import org.joda.time.DateTime;
 
+import junit.framework.TestCase;
 import package1.Course_programme;
 import package1.Module;
 import package1.Student;
 
-  
- public class Test{
+ public class Test extends TestCase {
    
   Student test = new Student(22,"31/05/1995","Maciej"); 
   Student test1 = new Student(23,"31/05/1994","Tim"); 
