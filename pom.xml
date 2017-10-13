@@ -40,6 +40,13 @@
 	    <version>0.0.1-SNAPSHOT</version>
 	</dependency>
 	</dependencies> 
+	
+	<distributionManagement>
+    <repository>
+        <id>package2</id>
+        <url>file:///C:/Users/Maciek/Dropbox</url>
+    </repository>
+</distributionManagement>
 
 <build>
  <plugins>
